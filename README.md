@@ -48,5 +48,3 @@ pip install -r requirements.txt
 The experiment highlights the **overfitting** issues of training from scratch with small dataset sizes (). The CNN memorized the training set (63% gap), while DINOv2 utilized its prior knowledge of 142M images to achieve a validation accuracy **4x higher** than the CNN.
 
 ---
-
-**Would you like me to help you generate a `LICENSE` file text or a `CONTRIBUTING.md` file to make your repo look even more professional?**
