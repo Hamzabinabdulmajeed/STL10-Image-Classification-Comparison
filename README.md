@@ -29,7 +29,7 @@ The dataset consists of 26 classes with roughly 9 images per class.
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/stl10-foundation-vs-cnn.git
+git clone https://github.com/Hamzabinabdulmajeed/stl10-foundation-vs-cnn.git
 
 ```
 
